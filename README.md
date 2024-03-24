@@ -5,5 +5,5 @@
 - 📈 I have a strong passion for the field of data science and would love to explore more in that field.
 - 🚀 I'm skilled in Python, Java, R, HTML, CSS and JS.
 
-[![Madhunisha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BreadcrumbsMadhunishaBala)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Madhunisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadhunishaBala)](https://github.com/MadhunishaBala/github-readme-stats)
 
