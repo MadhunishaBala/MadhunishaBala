@@ -6,4 +6,4 @@
 - 🚀 I'm skilled in Python, Java, R, HTML, CSS and JS.
 
 [![Madhunisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadhunishaBala)](https://github.com/MadhunishaBala/github-readme-stats)
-
+[![Madhunisha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MadhunishaBala)](https://github.com/MadhunishaBala/github-readme-activity-graph)
