@@ -1,8 +1,7 @@
 # Hi there! I'm Madhunisha 👋
 But you can call me Nisha! 😊
 
-## 🎓 About Me
-I'm currently pursuing B.Sc. in Artificial Intelligence and Data Science, diving deep into the world of algorithms, machine learning, and data-driven decision-making. But guess what? Right now, I'm interning as a Business Analyst—because why not? 😄 Sometimes, life takes us in unexpected directions, and I’m loving the unique blend of tech and business. It's all about making sense of data, whether for business insights or training a neural network!
+AI & Data Science student | Former BA Intern | Passionate about machine learning, data analysis, and building projects that matter
 
 ## 🚀 My Skills
 - **Programming Languages**: Python, Java, SQL, R
