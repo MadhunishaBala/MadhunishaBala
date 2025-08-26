@@ -1,7 +1,6 @@
-# Hi there! I'm Madhunisha 👋
-But you can call me Nisha! 😊
+## Hi there! I'm Madhunisha 👋But you can call me Nisha! 😊
 
-AI & Data Science student | Former BA Intern | Passionate about machine learning, data analysis, and building projects that matter
+AI & Data Science student | Former BA Intern | Passionate about machine learning, data analysis, and building projects that make an impact
 
 ## 🚀 My Skills
 - **Programming Languages**: Python, Java, SQL, R
@@ -11,8 +10,11 @@ AI & Data Science student | Former BA Intern | Passionate about machine learning
 - **Data Analysis**: Excel
 - **Business Analysis**: Requirement Elicitation, Writing User Stories
 
-I’m excited to continue learning, exploring new technologies, and blending AI with business insights. Whether it’s training a neural network or writing user stories, I’m all about solving problems and making data work smarter!
-
+## 📂 Projects & Interests
+- Building predictive ML models and data pipelines
+- Exploring AI solutions for business insights
+- Creating dashboards and visualizations for actionable decisions
+- Learning new tech & improving workflows
 
 
 
