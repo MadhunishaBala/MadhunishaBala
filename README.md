@@ -11,7 +11,7 @@ AI & Data Science student | Former BA Intern | Passionate about machine learning
 - **Business Analysis**: Requirement Elicitation, Writing User Stories
 
 ## 📂 Projects & Interests
-- Building predictive ML models and data pipelines
+- Building predictive ML models
 - Exploring AI solutions for business insights
 - Creating dashboards and visualizations for actionable decisions
 - Learning new tech & improving workflows
