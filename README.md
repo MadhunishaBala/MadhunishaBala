@@ -11,8 +11,8 @@ My work mostly revolves around building predictive models, exploring practical A
 - TensorFlow, Power BI, Excel
 
 ## Current interests
-– Machine learning and applied AI
-– Data analysis and visualization
-– AI-driven business insights
-– Improving workflows through better data use
+- Machine learning and applied AI
+- Data analysis and visualization
+- AI-driven business insights
+- Improving workflows through better data use
 
